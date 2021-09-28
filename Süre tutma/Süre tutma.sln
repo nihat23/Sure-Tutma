@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Süre tutma", "Süre tutma.vdproj", "{D06CEA8F-9F0E-4748-8CEF-8E9A3A259D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D06CEA8F-9F0E-4748-8CEF-8E9A3A259D3D}.Debug|Default.ActiveCfg = Debug
+		{D06CEA8F-9F0E-4748-8CEF-8E9A3A259D3D}.Debug|Default.Build.0 = Debug
+		{D06CEA8F-9F0E-4748-8CEF-8E9A3A259D3D}.Release|Default.ActiveCfg = Release
+		{D06CEA8F-9F0E-4748-8CEF-8E9A3A259D3D}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DCC90B9-51E4-464E-8950-18176D6E2AA3}
+	EndGlobalSection
+EndGlobal

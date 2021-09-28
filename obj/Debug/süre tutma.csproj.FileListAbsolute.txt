@@ -1,0 +1,10 @@
+D:\VB\süre tutma\bin\Debug\süre tutma.exe.config
+D:\VB\süre tutma\bin\Debug\süre tutma.exe
+D:\VB\süre tutma\bin\Debug\süre tutma.pdb
+D:\VB\süre tutma\obj\Debug\süre tutma.csprojAssemblyReference.cache
+D:\VB\süre tutma\obj\Debug\süre_tutma.Form1.resources
+D:\VB\süre tutma\obj\Debug\süre_tutma.Properties.Resources.resources
+D:\VB\süre tutma\obj\Debug\süre tutma.csproj.GenerateResource.cache
+D:\VB\süre tutma\obj\Debug\süre tutma.csproj.CoreCompileInputs.cache
+D:\VB\süre tutma\obj\Debug\süre tutma.exe
+D:\VB\süre tutma\obj\Debug\süre tutma.pdb
